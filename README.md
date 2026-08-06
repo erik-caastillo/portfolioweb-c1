@@ -1,2 +1,2 @@
-# portfolioweb-c1
-Claude's first iteration of building the project demo feature.
+# portfolio-web
+This is my web development portfolio website.
